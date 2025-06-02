@@ -13,7 +13,7 @@ Home: <https://github.com/seqafrica/zambia-course>
 
 Slides
 
- * [Day 1 Slides](https://zwets.it/course/zambia/slides/SeqAfrica_training_2025_DAY1.pdf)
+ * [Day 1 Slides](https://zwets.it/course/zambia/slides/SeqAfrica_Zambia_training_2025_DAY1.pdf)
  * [Bioinformatics Basics](https://zwets.it/course/slides/bioinformatics-basics.pdf)
  * [BAP Slides](https://zwets.it/course/slides/bap-slides.pdf) and [BAP repository](https://github.com/zwets/cge-bap)
 
