@@ -22,6 +22,7 @@ Links
 
  * [Blog explaining ONT sequencing](https://nanoporetech.com/blog/how-oxford-nanopore-sequencing-works)
  * [Nice animation of ONT sequencing](https://youtu.be/RcP85JHLmnI)
+ * [Illumina Sequencing by Synthesis video](https://www.youtube.com/watch?v=fCd6B5HRaZ8)
 
 Exercise links
 
@@ -38,14 +39,16 @@ Slides
 
 Links
 
- * [Illumina Sequencing by Synthesis video](https://www.youtube.com/watch?v=fCd6B5HRaZ8)
- * [Land Rover Sequencing Report](https://zwets.it/course/landrover/report.pdf)
+ * [MinKNOW Report (Land Rover Sequencing)](https://zwets.it/course/landrover/report.pdf)
+ * [Nanoplot repository](https://github.com/wdecoster/NanoPlot) and [Nanoplot Online (sequencing summary only)](https://nanoplot.bioinf.be/)
+ * [QUAST site](https://quast.sourceforge.net/quast.html) and [WebQuast (currently down)](https://quast.sourceforge.net/webquast.html)
 
 Exercise links
 
- * (Optional: for command-line experimenters) [Installing WSL and EPI2ME on Windows](https://zwets.it/course/epi2me/windows-epi2me-install.pdf)
- * [FastQC analysis of MiSeq reads](fastqc/README.md)
- * [Interpret QC analysis of own data](qc-own-data/README.md)
+ * (Optional: for command-line experimenters) [Installing WSL (and EPI2ME) on Windows](https://zwets.it/course/epi2me/windows-epi2me-install.pdf)
+ * [Perform FastQC on MiSeq reads](fastqc/README.md)
+ * [ONT QC - Analysis of NanoPlot reports](nanoplot/README.md)
+ * [Reads and assembly QC - MultiQC reports](multiqc/README.md)
 
 ## Day 3
 
