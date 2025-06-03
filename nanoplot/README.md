@@ -13,8 +13,8 @@ generated using the _sequencing_summary_ output by MinKNOW.
 Links to the NanoPlot reports (they may take some time to load over a
 slow connection):
 
- * [Run "ST4"](st4/NanoPlot-report.html)
- * [Run "ST5"](st5/NanoPlot-report.html)
+ * [Run "ST4"](https://zwets.it/course/ont-qc/st4/NanoPlot-report.html)
+ * [Run "ST5"](https://zwets.it/course/ont-qc/st5/NanoPlot-report.html)
 
 The runs were part of a series of sequencing experiments, all with the
 same organism, following the same protocol and using the same kit (RBK).
