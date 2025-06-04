@@ -76,7 +76,9 @@ Slides
 Links
 
  * [Enterobase](https://enterobase.warwick.ac.uk/) and [documentation](https://enterobase.readthedocs.io/en/latest) and [the paper](https://www.biorxiv.org/content/10.1101/613554v3)
- * [On-line Grapetree](https://achtman-lab.github.io/GrapeTree/MSTree_holder.html) and [off-line installation instructions](grapetree/README.md)
+ * [On-line Grapetree](https://achtman-lab.github.io/GrapeTree/MSTree_holder.html) and [off-line installation instructions](grapetree/README.md), [installation on Windows](grapetree/windows-grapetree-install.pdf)
+ * Grapetree "Ecoli" sample data: [MLST](grapetree/ecoli-mlst.tsv) and [metadata](ecoli-meta.tsv)
+ * Grapetree "MTB" sample data: [tree](grapetree/mtb-tree.tsv) and [metadata](mtb-meta.tsv)
  * Grapetree "Agona" demo data: [cgMLST](https://raw.githubusercontent.com/martinSergeant/EnteroMSTree/master/examples/Grapetree_Agona.profile) and [metadata](https://raw.githubusercontent.com/martinSergeant/EnteroMSTree/master/examples/Grapetree.Agona.meta.tsv)
 
 Phylogenetics Tutorials
