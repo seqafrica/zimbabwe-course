@@ -71,6 +71,7 @@ Exercise links
 Slides
 
  * [Day 4 Slides](https://zwets.it/course/zambia/slides/SeqAfrica_Zambia_training_2025_DAY4.pdf)
+ * [Phylogeny Slides](https://zwets.it/course/slides/phylogeny-intro.pdf)
 
 Links
 

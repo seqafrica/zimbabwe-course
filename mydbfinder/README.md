@@ -45,4 +45,5 @@ Pick one or more of these isolates to try:
  * [isolate04](https://zwets.it/course/mydbfinder/isolate04.fna.gz)
  * [isolate05](https://zwets.it/course/mydbfinder/isolate05.fna.gz)
  * [isolate06](https://zwets.it/course/mydbfinder/isolate06.fna.gz)
+ * [isolate07](https://zwets.it/course/mydbfinder/isolate07.fna.gz)
 
