@@ -15,7 +15,6 @@ Slides
 
  * [Day 1 Slides](https://zwets.it/course/zambia/slides/SeqAfrica_Zambia_training_2025_DAY1.pdf)
  * [Bioinformatics Basics](https://zwets.it/course/slides/bioinformatics-basics.pdf)
- * [BAP Slides](https://zwets.it/course/slides/bap-slides.pdf) and [BAP repository](https://github.com/zwets/cge-bap)
 
 
 Links
@@ -55,6 +54,7 @@ Exercise links
 Slides
 
  * [Day 3 Slides](https://zwets.it/course/zambia/slides/SeqAfrica_Zambia_training_2025_DAY3.pdf)
+ * [BAP Slides](https://zwets.it/course/slides/bap-slides.pdf) and [BAP repository](https://github.com/zwets/cge-bap)
  * [Bioinformatics Recap](https://zwets.it/course/slides/bioinformatics-recap.pdf)
 
 Links
@@ -63,8 +63,8 @@ Links
 
 Exercise links
 
+ * [AMR detection and typing with online tools](amr/README.md)
  * [Build your own anything-finder](mydbfinder/README.md)
- * [AMR detection with online tools](amr/README.md)
 
 ## Day 4
 
