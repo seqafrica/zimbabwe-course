@@ -1,0 +1,45 @@
+ID	Collection	Lineage	Reason	Severity	Nationality	Region	Age	Sex
+KIDH_01B01	2021-01	B.1.351						
+KIDH_01B02	2021-01							
+KIDH_01B03	2021-01	B.1.351						
+KIDH_01B04	2021-01	B.1.351						
+KIDH_01B05	2021-01							
+KIDH_01B06	2021-01	B.1.530						
+KIDH_01B07	2021-01							
+KIDH_01B08	2021-01							
+KIDH_01B09	2021-01							
+KIDH_01B10	2021-01	B.1.351						
+KIDH_01B11	2021-01							
+KIDH_02B01	2021-04	B.1.617.2	Suspect	Symptomatic		Dar es Salaam		
+KIDH_02B02	2021-04	B.1.351	Traveller	Asymptomatic		Dar es Salaam		
+KIDH_02B03	2021-04	B.1.351	Suspect	Symptomatic	Tanzania	Mwanza	56	M
+KIDH_02B04	2021-04	B.1.351	Control	Control		Dar es Salaam		
+KIDH_02B05	2021-04	B.1.351	Traveller	Asymptomatic	Kenya	Dar es Salaam		
+KIDH_02B06	2021-03	B.1.351	Traveller	Asymptomatic	Philippines	Mwanza		
+KIDH_02B07	2021-04	B.1.351	Traveller	Asymptomatic	Tanzania	Dar es Salaam		
+KIDH_02B08	2021-04	B.1.351	Traveller	Asymptomatic	Zambia	Dar es Salaam		
+KIDH_02B09	2021-04	B.1.351	Suspect	Moderate	Tanzania	Kilimanjaro	85	F
+KIDH_02B10	2021-04	B.1.351	Suspect	Symptomatic	India	Mwanza	45	M
+KIDH_02B11	2021-04	B.1.525	Suspect	Symptomatic	Tanzania	Mwanza	55	M
+KIDH_02B12	2021-04	B.1.351	Suspect	Severe	Tanzania	Kilimanjaro	80	F
+KIDH_02B13	2021-04	FAIL	Suspect	Moderate	Tanzania	Kilimanjaro	70	M
+KIDH_02B14	2021-05	B.1.617.2	Suspect			Dar es Salaam		
+KIDH_02B15	2021-05	B.1.617.2	Suspect			Dar es Salaam		
+KIDH_03B01	2021-04	B.1.351	Suspect	Symptomatic	Tanzania	Dar es Salaam	39	M
+KIDH_03B02	2021-04		Suspect	Symptomatic	Tanzania	Njombe	78	F
+KIDH_03B03	2021-04	B.1.351	Control	Control		Dar es Salaam		
+KIDH_03B04	2021-04	B.1.351	Control	Control		Dar es Salaam		
+KIDH_03B05	2021-04	B.1.617.2	Suspect	Symptomatic		Mwanza	27	F
+KIDH_03B06	2021-04		Suspect	Symptomatic	Tanzania	Simiyu	73	M
+KIDH_03B07	2021-04	B.1.351	Suspect	Symptomatic	Tanzania	Mwanza	66	F
+KIDH_03B08	2021-03		Traveller	Asymptomatic	United States	Arusha		
+KIDH_03B09	2021-03		Traveller	Asymptomatic	South Africa	Mara		
+KIDH_03B10	2021-03	B.1.525	Suspect	Severe	Tanzania	Arusha	52	M
+KIDH_03B11	2021-03	B.1.351	Suspect	Symptomatic	Tanzania	Mtwara	46	F
+KIDH_03B12	2021-03	B.1.351	Suspect	Symptomatic	Tanzania	Mwanza	60	M
+KIDH_03B13	2021-03	B.1.351	Suspect	Symptomatic	Denmark	Dar es Salaam	58	M
+KIDH_03B14	2021-04	B.1.351	Traveller	Asymptomatic	Pakistan	Dar es Salaam		
+KIDH_03B15	2021-04		Suspect	Moderate	Tanzania	Dodoma	60	M
+KIDH_03B16	2021-04		Suspect	Severe	Tanzania	Kilimanjaro	69	F
+KIDH_03B17	2021-04		Suspect	Symptomatic	Tanzania	Songea	62	M
+KIDH_03B18	2021-04	B.1.351	Traveller	Asymptomatic	United States	Mwanza		

@@ -35,11 +35,14 @@ arguments to generate a Newick tree from the data using one of several methods.
 See the [documentation](https://enterobase.readthedocs.io/en/latest/grapetree/grapetree-about.html),
 which has a tutorial with demo data, or dive straight in:
 
-> The **MLST** profile must be TSV, with a header that starts with `#`.
+> When using a (MLST) profile, this must be TSV, with a header that starts with `#`.
 > The **metadata** must be TSV, have an "ID" column, and its header must _not_ start with `#`.
 
- 1. Upload a newick tree, MLST profile or multiple sequence alignment ([Agona Demo](https://raw.githubusercontent.com/martinSergeant/EnteroMSTree/master/examples/Grapetree_Agona.profile))
- 2. Upload a metadata table ([Agona Demo](https://raw.githubusercontent.com/martinSergeant/EnteroMSTree/master/examples/Grapetree.Agona.meta.tsv))
+Here are some sample datasets:
+
+ * Grapetree Agona demo [cgMLST profile](demo-agona-cgmlst.tsv) and [metadata](demo-agona-meta.tsv)
+ * SARS-CoV-2 [MSA](ncov-msa.fasta) and [metadata](ncov-meta.tsv)
+ * Ecoli sample [MLST](ecoli-mlst.tsv) and [metadata](ecoli-meta.tsv)
 
 Use the various controls to format it.  Tutorials and tips are available in the
 Enterobase and GrapeTree on-line documentation.

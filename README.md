@@ -72,14 +72,13 @@ Slides
 
  * [Day 4 Slides](https://zwets.it/course/zambia/slides/SeqAfrica_Zambia_training_2025_DAY4.pdf)
  * [Phylogeny Slides](https://zwets.it/course/slides/phylogeny-intro.pdf)
+ * [Simulated Exercise Instructions](simex/simulated-exercise-instructions.pdf) and [metadata template](simex/Exercise_metadata_not_filled.xlsx)
 
 Links
 
  * [Enterobase](https://enterobase.warwick.ac.uk/) and [documentation](https://enterobase.readthedocs.io/en/latest) and [the paper](https://www.biorxiv.org/content/10.1101/613554v3)
  * [On-line Grapetree](https://achtman-lab.github.io/GrapeTree/MSTree_holder.html) and [off-line installation instructions](grapetree/README.md), [installation on Windows](grapetree/windows-grapetree-install.pdf)
- * Grapetree "Ecoli" sample data: [MLST](grapetree/ecoli-mlst.tsv) and [metadata](ecoli-meta.tsv)
- * Grapetree "MTB" sample data: [tree](grapetree/mtb-tree.tsv) and [metadata](mtb-meta.tsv)
- * Grapetree "Agona" demo data: [cgMLST](https://raw.githubusercontent.com/martinSergeant/EnteroMSTree/master/examples/Grapetree_Agona.profile) and [metadata](https://raw.githubusercontent.com/martinSergeant/EnteroMSTree/master/examples/Grapetree.Agona.meta.tsv)
+ * Some demo datasets are linked from [here](grapetree/README.md)
 
 Phylogenetics Tutorials
 
@@ -88,7 +87,7 @@ Phylogenetics Tutorials
  * [Timetree tutorials](https://treetime.readthedocs.io/en/latest/tutorials/timetree.html)
  * [IQ-TREE](http://www.iqtree.org/doc/Dating)
  
-Exercise
+Simulated Exercise
 
  * Data will be distributed on USB stick; discussion of results is [here](https://zwets.it/course/zambia/slides/SeqAfrica_Zambia_training_2025_DAY4_simex_results.pdf)
 
