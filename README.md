@@ -13,7 +13,7 @@ Home: <https://github.com/seqafrica/zimbabwe-course>
 
 Slides
 
- * [Day 1 Slides](https://zwets.it/course/zimbabwe/slides/SeqAfrica_Zambia_training_2025_DAY1.pdf)
+ * [Day 1 Slides](https://zwets.it/course/slides/SeqAfrica_Bioinformatics_training_2025_DAY1.pdf)
  * [Bioinformatics Basics](https://zwets.it/course/slides/bioinformatics-basics.pdf)
 
 
@@ -32,7 +32,7 @@ Exercise links
 
 Slides
 
- * [Day 2 Slides](https://zwets.it/course/zimbabwe/slides/SeqAfrica_Zambia_training_2025_DAY2.pdf)
+ * [Day 2 Slides](https://zwets.it/course/slides/SeqAfrica_Bioinformatics_training_2025_DAY2.pdf)
  * [Illumina Reads QC](https://zwets.it/course/slides/illumina-reads-qc.pdf)
  * [FastQC Puzzles](https://zwets.it/course/slides/fastqc-puzzles.pdf)
 
@@ -53,7 +53,7 @@ Exercise links
 
 Slides
 
- * [Day 3 Slides](https://zwets.it/course/zimbabwe/slides/SeqAfrica_Zambia_training_2025_DAY3.pdf)
+ * [Day 3 Slides](https://zwets.it/course/slides/SeqAfrica_Bioinformatics_training_2025_DAY3.pdf)
  * [BAP Slides](https://zwets.it/course/slides/bap-slides.pdf) and [BAP repository](https://github.com/zwets/cge-bap)
  * [Bioinformatics Recap](https://zwets.it/course/slides/bioinformatics-recap.pdf)
 
@@ -70,7 +70,7 @@ Exercise links
 
 Slides
 
- * [Day 4 Slides](https://zwets.it/course/zimbabwe/slides/SeqAfrica_Zambia_training_2025_DAY4.pdf)
+ * [Day 4 Slides](https://zwets.it/course/slides/SeqAfrica_Bioinformatics_training_2025_DAY4.pdf)
  * [Phylogeny Slides](https://zwets.it/course/slides/phylogeny-intro.pdf)
  * [Simulated Exercise Instructions](simex/simulated-exercise-instructions.pdf) and [metadata template](simex/Exercise_metadata_not_filled.xlsx)
 
@@ -89,5 +89,5 @@ Phylogenetics Tutorials
  
 Simulated Exercise
 
- * Data will be distributed on USB stick; discussion of results is [here](https://zwets.it/course/zimbabwe/slides/SeqAfrica_Zambia_training_2025_DAY4_simex_results.pdf)
+ * Data will be distributed on USB stick; discussion of results is [here](https://zwets.it/course/slides/SeqAfrica_Bioinformatics_training_2025_DAY4_simex_results.pdf)
 
