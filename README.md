@@ -7,7 +7,7 @@ Home: <https://github.com/seqafrica/zimbabwe-course>
 
 ## Programme
 
- * [Zimbabwe training agenda](Zimbabwe_training_agenda_final.pdf)
+ * [Zimbabwe training agenda](Zimbabwe_training_agenda_updated.pdf)
 
 ## Day 1
 
