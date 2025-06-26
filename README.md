@@ -79,6 +79,7 @@ Links
  * [Enterobase](https://enterobase.warwick.ac.uk/) and [documentation](https://enterobase.readthedocs.io/en/latest) and [the paper](https://www.biorxiv.org/content/10.1101/613554v3)
  * [On-line Grapetree](https://achtman-lab.github.io/GrapeTree/MSTree_holder.html) and [off-line installation instructions](grapetree/README.md), [installation on Windows](grapetree/windows-grapetree-install.pdf)
  * Some demo datasets are linked from [here](grapetree/README.md)
+ * Recent paper on cg/wgMLST with ONT: [Accurate and reproducible whole-genome genotyping for bacterial genomic surveillance with Nanopore sequencing data](https://journals.asm.org/doi/10.1128/jcm.00369-25)
 
 Phylogenetics Tutorials
 
