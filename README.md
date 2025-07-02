@@ -45,6 +45,7 @@ Links
 Exercise links
 
  * (Optional: for command-line experimenters) [Installing WSL (and EPI2ME) on Windows](https://zwets.it/course/epi2me/windows-epi2me-install.pdf)
+ * [Instructions for online assembly](https://zwets.it/course/assembly/Day2_online_assembly_exercise_instructions.docx)
  * [Perform FastQC on MiSeq reads](fastqc/README.md)
  * [ONT QC - Analysis of NanoPlot reports](nanoplot/README.md)
  * [Reads and assembly QC - MultiQC reports](multiqc/README.md)
