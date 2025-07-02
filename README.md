@@ -49,6 +49,11 @@ Exercise links
  * [ONT QC - Analysis of NanoPlot reports](nanoplot/README.md)
  * [Reads and assembly QC - MultiQC reports](multiqc/README.md)
 
+Data Files
+
+ * [Illumina Sample Reads](https://zwets.it/course/assembly/Illumina_fastq)
+ * [Nanopore Sample Reads](https://zwets.it/course/assembly/ONT_fastq)
+
 ## Day 3
 
 Slides
